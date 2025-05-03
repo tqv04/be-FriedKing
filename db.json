@@ -1025,31 +1025,100 @@
   "Project":[
     {
       "id": "1",
-      "title": "Combo Pizza Project",
-      "img": "https://www.shutterstock.com/image-vector/img-vector-icon-design-on-260nw-2164648583.jpg",
-      "category": "HTML/CSS/JAVASCRIPT",
-      "description": "Resful Api"
+      "title": "Project Fried King",
+      "imgMain": "https://i.imgur.com/KAObYl6.png",
+      "imgSub": "https://i.imgur.com/8ExjFlI.png",
+      "category": "ReactJS, React-Bootstrap, ",
+      "description": "Resful Api",
+      "link": "https://fried-king-iej9.vercel.app/"
     },
     {
       "id": "2",
-      "title": "Combo Pizza Project",
-      "img": "https://www.shutterstock.com/image-vector/img-vector-icon-design-on-260nw-2164648583.jpg",
-      "category": "HTML/CSS/JAVASCRIPT",
-      "description": "Resful Api"
+      "title": "Project Pizza 365",
+      "imgMain": "https://i.imgur.com/CIslLc6.png",
+      "imgSub": "https://i.imgur.com/7Cqpio0.png",
+      "category": "HTML, CSS, JavaScript",
+      "description": "Resful Api",
+      "link": "https://pizza-365.vercel.app/"
     },
     {
       "id": "3",
-      "title": "Combo Pizza Project",
-      "img": "https://www.shutterstock.com/image-vector/img-vector-icon-design-on-260nw-2164648583.jpg",
-      "category": "HTML/CSS/JAVASCRIPT",
-      "description": "Resful Api"
+      "title": "Solar System",
+      "imgMain": "https://i.imgur.com/LS0idLG.png",
+      "imgSub": "https://www.shutterstock.com/image-vector/img-vector-icon-design-on-260nw-2164648583.jpg",
+      "category": "HTML, CSS, JavaScript",
+      "description": "Resful Api",
+      "link": "https://solar-system-xi-ashy.vercel.app/"
     },
     {
       "id": "4",
-      "title": "Combo Pizza Project",
-      "img": "https://www.shutterstock.com/image-vector/img-vector-icon-design-on-260nw-2164648583.jpg",
-      "category": "HTML/CSS/JAVASCRIPT",
-      "description": "Resful Api"
+      "title": "Yszshop",
+      "imgMain": "https://i.imgur.com/BE2blGW.png",
+      "imgSub": "https://i.imgur.com/8OIVCfN.png",
+      "category": "WordPress",
+      "description": "Resful Api",
+      "link": "https://yszshop.id.vn/"
     }
-  ]
+  ],
+  "tech":[
+    { "id": "1", "title": "HTML", "iconName": "SiHtml5", "color": "#E44D26" },
+    { "id": "2", "title": "CSS", "iconName": "SiCss3", "color": "#264de4" },
+    { "id": "3", "title": "JavaScript", "iconName": "SiJavascript", "color": "#f0db4f" },
+    { "id": "4", "title": "TypeScript", "iconName": "SiTypescript", "color": "#3178C6" },
+    { "id": "5", "title": "React Js", "iconName": "SiReact", "color": "#61dafb" },
+    { "id": "6", "title": "Next Js", "iconName": "SiNextdotjs", "color": "#000000" },
+    { "id": "7", "title": "Node Js", "iconName": "SiNodedotjs", "color": "#339933" },
+    { "id": "8", "title": "Mongo DB", "iconName": "SiMongodb", "color": "#47A248" }
+  ],
+"services": [
+  {
+    "id": "1",
+    "title": "Responsive Web Design",
+    "desc": "Designing interfaces that display seamlessly across all devices (PC, tablet, mobile).",
+    "icon": "devices",        
+    "color": "#42a5f5",
+    "side": "left"
+  },
+  {
+    "id": "2",
+    "title": "PSD/Figma to HTML",
+    "desc": "Converting UI designs from Figma or Photoshop into clean, compatible HTML/CSS code.",
+    "icon": "brush",                
+    "color": "#ec407a",
+    "side": "right"
+  },
+  {
+    "id": "3",
+    "title": "Single Page Application (SPA)",
+    "desc": "Developing smooth and dynamic web apps using ReactJS or Next.js.",
+    "icon": "dynamic_form",        
+    "color": "#7e57c2",
+    "side": "left"
+  },
+  {
+    "id": "4",
+    "title": "API Integration",
+    "desc": "Connecting and efficiently handling data from RESTful APIs.",
+    "icon": "sync_alt",         
+    "color": "#26a69a",
+    "side": "right"
+  },
+  {
+    "id": "5",
+    "title": "Landing Page Development",
+    "desc": "Building high-converting landing pages for marketing campaigns.",
+    "icon": "web",                
+    "color": "#66bb6a",
+    "side": "left"
+  },
+  {
+    "id": "6",
+    "title": "Version Control (Git)",
+    "desc": "Using Git/GitHub/GitLab for efficient source control and team collaboration.",
+    "icon": "hub",              
+    "color": "#ffa726",
+    "side": "right"
+  }
+]
+
 }
