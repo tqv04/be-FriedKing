@@ -737,6 +737,44 @@
       "imageUrl": "https://bizweb.dktcdn.net/100/310/257/themes/801944/assets/menu_icon_6.png?1676001091788"
     }
   ],
+  "categories": [
+    {
+      "name": "Pizza",
+      "quanity": 17,
+      "imageUrl": "https://bizweb.dktcdn.net/100/310/257/themes/801944/assets/menu_icon_1.png?1676001091788",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Burger",
+      "quanity": 13,
+      "imageUrl": "https://bizweb.dktcdn.net/100/310/257/themes/801944/assets/menu_icon_2.png?1676001091788"
+    },
+    {
+      "id": "3",
+      "name": "Thức Uống",
+      "quanity": 7,
+      "imageUrl": "https://bizweb.dktcdn.net/100/310/257/themes/801944/assets/menu_icon_3.png?1676001091788"
+    },
+    {
+      "id": "4",
+      "name": "Thức Ăn Nhẹ",
+      "quanity": 14,
+      "imageUrl": "https://bizweb.dktcdn.net/100/310/257/themes/801944/assets/menu_icon_4.png?1676001091788"
+    },
+    {
+      "id": "5",
+      "name": "Salad",
+      "quanity": 17,
+      "imageUrl": "https://bizweb.dktcdn.net/100/310/257/themes/801944/assets/menu_icon_5.png?1676001091788"
+    },
+    {
+      "id": "6",
+      "name": "Thức ăn kèm",
+      "quanity": 9,
+      "imageUrl": "https://bizweb.dktcdn.net/100/310/257/themes/801944/assets/menu_icon_6.png?1676001091788"
+    }
+  ],
   "users": [
     {
       "id": "0",
