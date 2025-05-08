@@ -1105,6 +1105,15 @@
       "category": "ReactJS, React-Bootstrap",
       "description": "Resful Api",
       "link": "https://demo-react-sage.vercel.app/"
+    },
+    {
+      "id": "6",
+      "title": "News Website YAT",
+      "imgMain": "https://i.imgur.com/hbH9KTq.png",
+      "imgSub": "https://i.imgur.com/8OIVCfN.png",
+      "category": "ReactJS, React-Bootstrap, Tailwind",
+      "description": "Resful Api",
+      "link": "https://news-website-yat.vercel.app/"
     }
   ],
   "tech":[
